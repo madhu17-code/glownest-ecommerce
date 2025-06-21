@@ -7,6 +7,7 @@
 - Routing with React Router
 - Modern UI with CSS
 - Responsive design
+- Add to Cart option
 
 ## Tech Stack
 - React
