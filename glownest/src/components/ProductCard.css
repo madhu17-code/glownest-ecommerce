@@ -1,0 +1,25 @@
+/* App.css */
+
+/* Product Card Container */
+
+
+
+
+.price {
+  color: #d74d7a;
+  font-weight: bold;
+  margin: 10px 0;
+}
+
+button {
+  background-color: #ff87ab;
+  border: none;
+  padding: 8px 16px;
+  color: white;
+  border-radius: 20px;
+  cursor: pointer;
+}
+
+button:hover {
+  background-color: #ff6090;
+}
