@@ -1,0 +1,18 @@
+[
+  {
+    "id": 1,
+    "email": "admin@glownest.com",
+    "password": "$2a$10$rQZ8K9mN2pL1vX3yA6bC7dE8fG9hI0jK1lM2nO3pQ4rS5tU6vW7xY8zA9bC0dE1f",
+    "name": "Admin User",
+    "role": "admin",
+    "createdAt": "2025-06-28T06:16:58.403Z"
+  },
+  {
+    "id": 2,
+    "email": "workhardandcrackjee2023@gmail.com",
+    "password": "$2b$10$iLn6HF0NryPNzEARmQAenuuHR9OWAkY0giUq.8sB7tv6v9CVuZ9Iq",
+    "name": "madhu",
+    "role": "user",
+    "createdAt": "2025-06-28T06:16:58.755Z"
+  }
+]
